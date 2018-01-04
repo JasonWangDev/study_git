@@ -5,3 +5,5 @@
 [一次 Push 多個 Respository 指令](https://yami.io/git-multiple-origin/)
 
 [移除遠端分支](https://zlargon.gitbooks.io/git-tutorial/content/remote/delete_branch.html)
+
+[一次 Push 所有 Tag](https://stackoverflow.com/questions/2988088/do-git-tags-get-pushed-as-well)
